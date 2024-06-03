@@ -65,3 +65,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'omniauth-oktaoauth'
+gem 'activerecord-session_store'
+gem 'figaro'
+gem  'devise'
+gem 'omniauth-rails_csrf_protection', '~> 0.1'
