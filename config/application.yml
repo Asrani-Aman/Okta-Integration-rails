@@ -9,14 +9,14 @@
 # production:
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
-OKTA_CLIENT_ID: "okta client id"
+OKTA_CLIENT_ID: "0oahh3d1tnchSdV6T5d7"
 
-OKTA_CLIENT_SECRET: "okta client secret"
+OKTA_CLIENT_SECRET: "MYHOrQ_oUEnZZ1r6LMhQUBeBFwSl4kkpCxfKX3mdAGzA5bIX_CFkkUQH8aJxiT2Y"
 
-OKTA_ORG: "your org"
+OKTA_ORG: "dev-10049931"
 OKTA_DOMAIN: "okta"
 
-OKTA_URL: "your okta url"
+OKTA_URL: "https://dev-10049931.okta.com"
 
 OKTA_ISSUER: "your okta oauth server issuer"
 
