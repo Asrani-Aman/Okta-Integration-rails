@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-ruby "3.2.1"
+# Use Rails 6 instead of Rails 7
+gem "rails", "~> 6.1.0"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.3"
