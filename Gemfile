@@ -1,10 +1,8 @@
 source "https://rubygems.org"
-
+ruby '2.5.0'
 # Use Rails 6 instead of Rails 7
 gem "rails", "~> 6.1.0"
 
-# Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.1.3", ">= 7.1.3.3"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
