@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.5.0'
+ruby '3.2.1'
 # Use Rails 6 instead of Rails 7
 gem "rails", "~> 6.1.0"
 
